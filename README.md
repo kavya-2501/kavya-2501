@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Instagram-magenta?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
- <img src="https://komarev.com/ghpvc/?username=Kavya-25&style=flat-square&color=blue" alt=""/>
+ <img src="https://komarev.com/ghpvc/?username=kavya-2501&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">
   Hey there !!
