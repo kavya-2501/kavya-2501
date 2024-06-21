@@ -24,7 +24,12 @@
 
 
 <h1> :hammer_and_wrench: Skills :</h1>
-[![CSS](https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg)](https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavya-2501&layout=compact&theme=vision-friendly-dark)](https://github.com/kavya-2501/github-readme-stats)<br/><br/>
 [![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavya-2501&show_icons=true&theme=radical)](https://github.com/kavya-2501/github-readme-stats) <br/>
