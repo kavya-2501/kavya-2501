@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi there, I am Kavya 👋
+
+## About Me
+I'm a software developer specializing in web and mobile applications.
+
+## Skills
 
 <!--
 **kavya-2501/kavya-2501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
