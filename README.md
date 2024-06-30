@@ -30,8 +30,10 @@
   </a>
 </p>
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavya-2501&layout=compact&theme=vision-friendly-dark)](https://github.com/kavya-2501/github-readme-stats)<br/><br/>
 [![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavya-2501&show_icons=true&theme=radical)](https://github.com/kavya-2501/github-readme-stats) <br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=kavya-2501&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kavya-2501&theme=dark&hide_border=true)](https://git.io/streak-stats)]
+
+-->
 
